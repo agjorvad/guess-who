@@ -13,7 +13,7 @@ var people = [
   },
   {
     name: 'Dylan',
-    githubUsername: 'dylandorsey.git'
+    githubUsername: 'dylandorsey'
   },
   {
     name: 'Liz',
@@ -49,7 +49,7 @@ var people = [
   },
   {
     name: 'Shely',
-    githubUsername: 'micheledexter.git'
+    githubUsername: 'micheledexter'
   },
   {
     name: 'Nathan',
